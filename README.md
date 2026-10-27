@@ -153,7 +153,3 @@ Emmanuel Nkaka
 - Create a graphical user interface (GUI)
 - Allow users to input their own flower measurements
 - Export results to PDF reports
-
-## License
-
-This project is for educational purposes.
