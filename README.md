@@ -89,6 +89,7 @@ The program automatically generates the following files:
 ## Example Output
 
 #text
+
 Shape: (150, 6)
 
 Best K: 5
@@ -153,3 +154,4 @@ Emmanuel Nkaka
 - Create a graphical user interface (GUI)
 - Allow users to input their own flower measurements
 - Export results to PDF reports
+  
